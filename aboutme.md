@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Thorvaldsdalsskokkid trial run
-subtitle: oldest trail run in Iceland
+title: Thorvaldsdalur terrain run
+subtitle: oldest terrain run in Iceland
 ---
 
-Thorvaldsdalsskokkid trail run is approximately 24 km long and does not follow a certain path but runners are free to choose their own path as long as they start and end at designated places.
+Thorvaldsdalur terrain run is approximately 24 km long and does not follow a certain path but runners are free to choose their own path as long as they start and end at designated places.
 
 - I rock a great mustache
 - I'm extremely loyal to my family
