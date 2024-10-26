@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Thorvaldsdalsskokkid trial run
+subtitle: oldest trail run in Iceland
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Thorvaldsdalsskokkid trail run is approximately 24 km long and does not follow a certain path but runners are free to choose their own path as long as they start and end at designated places.
 
 - I rock a great mustache
 - I'm extremely loyal to my family
